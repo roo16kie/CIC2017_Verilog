@@ -1,0 +1,13 @@
+{C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/testfixture.v} {0 {vlog -work work -stats=none {C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/testfixture.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture
+** Error: C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/testfixture.v(21): (vlog-2163) Macro `FWEXP is undefined.
+
+** Error: C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/testfixture.v(24): (vlog-2163) Macro `BCEXP is undefined.
+
+-- Compiling module sti_ROM
+** Error: C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/testfixture.v(208): (vlog-2163) Macro `PAT is undefined.
+
+-- Compiling module res_RAM
+
+} {4.0 5.0 6.0 7.0 9.0 10.0} {}}

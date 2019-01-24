@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/pregraduate/IC training/2012/B_ICC2012_preliminary_all_cell
+vDT
+!s110 1547616474
+!i10b 1
+!s100 9lV<:[<1zPTCVmJDmF:6:1
+IiGK[_]mj44:GPYT>XG8oB1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based
+w1547616191
+8C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/DT.v
+FC:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/DT.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1547616473.000000
+!s107 C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/DT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based/DT.v|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@d@t
+vres_RAM
+Z3 !s110 1547616480
+!i10b 1
+!s100 Dh16Z2ZV7PQ:fAdY]AjIc0
+I=7KSAIBGM>C8Wb;<TfRhU0
+R0
+R1
+Z4 w1547610480
+Z5 8testfixture.v
+Z6 Ftestfixture.v
+L0 220
+R2
+r1
+!s85 0
+31
+Z7 !s108 1547616480.000000
+Z8 !s107 testfixture.v|
+Z9 !s90 -reportprogress|300|testfixture.v|+define+TB1|
+!s101 -O0
+!i113 1
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z11 !s92 +define+TB1 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+nres_@r@a@m
+vsti_ROM
+R3
+!i10b 1
+!s100 C?BK564kN]ha0QHBHSXzW1
+IzeP28oczUa5:BS:PZ58B>1
+R0
+R1
+R4
+R5
+R6
+L0 196
+R2
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+R11
+nsti_@r@o@m
+vtestfixture
+R3
+!i10b 1
+!s100 NQPEIc@@Me4C7UXhmBBS51
+IbLVO6C3BECJ97ASI:dgR12
+R0
+R1
+R4
+R5
+R6
+L0 16
+R2
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+R11

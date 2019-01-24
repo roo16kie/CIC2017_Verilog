@@ -1,0 +1,10 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-VFILE
+/usr/cad/CBDK/CBDK_IC_Contest_v2.1/Verilog/tsmc13.v
+-DEFINE
+SDF
+-DEFINE
+TB2
